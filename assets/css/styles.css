@@ -7,13 +7,15 @@
 	background-size: 600px auto;
 }
 body{font-family:system-ui,-apple-system,Segoe UI,Roboto,'Helvetica Neue',Arial;line-height:1.5;color:#111;margin:0}
+.container a,.content a{color:#2a555e}
+.container a:visited,.content a:visited{color:#1a3a3f}
+a{color:#2a555e;text-decoration:underline}
 .navbar{display:flex;justify-content:space-between;align-items:center;padding:0.6rem 1rem;background:#2a555e;color:#fff}
 .nav-left{display:flex;align-items:center;gap:0.5rem}
 .brand-logo{width:auto;height:auto;max-height:calc(1.5rem + 0.6rem * 2);margin:0;padding:0;border-radius:6px;object-fit:contain}
 .brand{font-weight:700;color:#fff;text-decoration:none;font-size:1.12rem;font-variant:small-caps;letter-spacing:0.02em}
 .nav-right{display:flex;gap:0.75rem;align-items:center}
 .nav-item{color:#fff;text-decoration:none;padding:0.4rem 0.6rem;border-radius:4px;font-size:1.0rem}
-.nav-item.cfp{background:transparent;color:inherit;padding:0.35rem 0.6rem;border-radius:4px}
 .nav-item:hover{background:rgba(255,255,255,0.08)}
 .dropdown{position:relative}
 .dropbtn{background:transparent;border:0;padding:0.4rem 0.6rem;cursor:pointer;color:inherit;font-size:1.0rem}
