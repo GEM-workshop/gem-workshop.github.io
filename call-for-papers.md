@@ -2,12 +2,13 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
-title: GEM 2025 at ACL 2025 - Call for Papers
+title: GEM at ACL 2026 - Call for Papers
 subtitle: The Fifth Generation, Evaluation & Metrics Workshop (GEM)
+permalink: /call-for-papers
 ---
 
 **Event Type:** Call for Papers  
-**Conference:** GEM at ACL 2026  
+**Conference:** [ACL 2026](https://2026.aclweb.org/)  
 **Date:** July 2nd or July 3rd, 2026  
 **Location:** San Diego, California, USA  
 **Contact:** gem-workshop@googlegroups.com
