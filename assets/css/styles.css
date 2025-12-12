@@ -1,0 +1,38 @@
+/* Minimal, readable styles for GEM workshop site */
+:root{--accent:#0b66c3;--muted:#666}
+.body-bg{
+	background-image: url('../background.svg');
+	background-repeat: repeat;
+	background-position: center top;
+	background-size: 600px auto;
+}
+body{font-family:system-ui,-apple-system,Segoe UI,Roboto,'Helvetica Neue',Arial;line-height:1.5;color:#111;margin:0}
+.navbar{display:flex;justify-content:space-between;align-items:center;padding:0.6rem 1rem;background:#2a555e;color:#fff}
+.brand{font-weight:700;color:#fff;text-decoration:none;font-size:1.12rem;font-variant:small-caps;letter-spacing:0.02em}
+.nav-right{display:flex;gap:0.75rem;align-items:center}
+.nav-item{color:#fff;text-decoration:none;padding:0.4rem 0.6rem;border-radius:4px;font-size:1.0rem}
+.nav-item.cfp{background:transparent;color:inherit;padding:0.35rem 0.6rem;border-radius:4px}
+.nav-item:hover{background:rgba(255,255,255,0.08)}
+.dropdown{position:relative}
+.dropbtn{background:transparent;border:0;padding:0.4rem 0.6rem;cursor:pointer;color:inherit;font-size:1.0rem}
+.dropdown-content{display:none;position:absolute;right:0;background:#fff;border:1px solid #e6e9ef;min-width:8rem;box-shadow:0 2px 8px rgba(0,0,0,0.06)}
+.dropdown-content a{display:block;padding:0.5rem 0.75rem;color:#111;text-decoration:none;font-size:1.0rem}
+.dropdown-divider{height:1px;background:#e6e9ef;margin:0.35rem 0}
+.dropdown:hover .dropdown-content{display:block}
+.container{max-width:980px;margin:1.5rem auto;padding:0 1rem;background:rgba(255,255,255,0.85);box-shadow:0 6px 18px rgba(16,24,40,0.06);border-radius:8px}
+.page-header{padding:1rem 1rem 0 1rem}
+.page-header h1{margin:0;font-size:1.6rem;color:var(--accent)}
+.page-header .subtitle{color:var(--muted);margin-top:0.25rem}
+.content{padding:0.75rem 1rem 1.25rem 1rem}
+.page-header .subtitle{color:var(--muted);margin-top:0.25rem}
+.table-responsive{overflow:auto}
+table{border-collapse:collapse;width:100%;margin:1rem 0}
+table th,table td{padding:0.5rem;border:1px solid #e6e9ef;text-align:left}
+.site-footer{padding:1rem;text-align:center;color:var(--muted);font-size:0.9rem;border-top:1px solid #f0f0f0;margin:1.5rem auto 2rem}
+
+/* Apply SVG background to the page root */
+html,body{height:100%}
+/* Make the page a column flex container so footer can stick to bottom */
+body{display:flex;flex-direction:column;min-height:100vh}
+body::before{content:'';position:fixed;inset:0;z-index:-1;background-image:url('/assets/background.svg');background-repeat:no-repeat;background-position:center center;background-size:cover;opacity:0.12}
+main.container{flex:1}
