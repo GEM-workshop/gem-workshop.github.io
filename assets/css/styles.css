@@ -8,6 +8,8 @@
 }
 body{font-family:system-ui,-apple-system,Segoe UI,Roboto,'Helvetica Neue',Arial;line-height:1.5;color:#111;margin:0}
 .navbar{display:flex;justify-content:space-between;align-items:center;padding:0.6rem 1rem;background:#2a555e;color:#fff}
+.nav-left{display:flex;align-items:center;gap:0.5rem}
+.brand-logo{width:auto;height:auto;max-height:calc(1.5rem + 0.6rem * 2);margin:0;padding:0;border-radius:6px;object-fit:contain}
 .brand{font-weight:700;color:#fff;text-decoration:none;font-size:1.12rem;font-variant:small-caps;letter-spacing:0.02em}
 .nav-right{display:flex;gap:0.75rem;align-items:center}
 .nav-item{color:#fff;text-decoration:none;padding:0.4rem 0.6rem;border-radius:4px;font-size:1.0rem}
@@ -26,8 +28,15 @@ body{font-family:system-ui,-apple-system,Segoe UI,Roboto,'Helvetica Neue',Arial;
 .content{padding:0.75rem 1rem 1.25rem 1rem}
 .page-header .subtitle{color:var(--muted);margin-top:0.25rem}
 .table-responsive{overflow:auto}
-table{border-collapse:collapse;width:100%;margin:1rem 0}
-table th,table td{padding:0.5rem;border:1px solid #e6e9ef;text-align:left}
+.table-responsive table{border:none;border-collapse:collapse;width:100%;margin:1rem 0}
+.table-responsive th,.table-responsive td{padding:0.5rem;text-align:left;border:none}
+/* faint inner borders only (no outer border) */
+.table-responsive td + td,.table-responsive th + th{border-left:1px solid rgba(16,24,40,0.06)}
+.table-responsive tbody tr + tr td{border-top:1px solid rgba(16,24,40,0.06)}
+/* bold header and first column */
+.table-responsive th,.table-responsive td:first-child{font-weight:700}
+/* faint border under header row */
+.table-responsive thead th{border-bottom:1px solid rgba(16,24,40,0.12)}
 .site-footer{padding:1rem;text-align:center;color:var(--muted);font-size:0.9rem;border-top:1px solid #f0f0f0;margin:1.5rem auto 2rem}
 
 /* Apply SVG background to the page root */
