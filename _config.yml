@@ -32,6 +32,7 @@ twitter_username: gem-workshop
 
 # Build settings
 theme: minima
+trailing_slash: enabled
 plugins:
   - jekyll-feed
 
