@@ -1,5 +1,5 @@
 /* Minimal, readable styles for GEM workshop site */
-:root{--accent:#0b66c3;--muted:#666}
+:root{--accent:#2a555e;--muted:#666}
 .body-bg{
 	background-image: url('../background.svg');
 	background-repeat: repeat;
