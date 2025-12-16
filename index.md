@@ -10,7 +10,7 @@ subtitle: The Fifth Generation, Evaluation & Metrics Workshop (GEM)
 **Conference:** [ACL 2026](https://2026.aclweb.org/)  
 **Date:** July 2nd or July 3rd, 2026  
 **Location:** San Diego, California, USA  
-**Contact:** gem-workshop@googlegroups.com
+**Contact:** gem-workshop-chairs@googlegroups.com
 
 ---
 
