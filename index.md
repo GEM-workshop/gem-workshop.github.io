@@ -86,7 +86,7 @@ All accepted papers will be given up to an additional page to address reviewers 
 * **June 4, 2026:** Pre-recorded video due (hard deadline)  
 * **July 2–3, 2026:** Workshop at ACL in San Diego
 
-## **Organising committee**
+## **Organizing committee**
 * Simon Mille - ADAPT, Dublin City University
 * Sebastian Gehrmann - Bloomberg
 * Patrícia Schmidtová - Charles University
