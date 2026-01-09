@@ -86,6 +86,16 @@ All accepted papers will be given up to an additional page to address reviewers 
 * **June 4, 2026:** Pre-recorded video due (hard deadline)  
 * **July 2–3, 2026:** Workshop at ACL in San Diego
 
+## **Organising committee**
+* Simon Mille - ADAPT, Dublin City University
+* Sebastian Gehrmann - Bloomberg
+* Patrícia Schmidtová - Charles University
+* Ondřej Dušek - Charles University
+* Marzieh Fadaee - Cohere
+* Kyle Lo - Allen Institute for AI
+* Enrico Santus - Bloomberg
+* Gabriel Stanovsky - Hebrew University
+
 ## **Contact**
 
 For any questions, please check the workshop page or email the organisers: gem-workshop-chairs@googlegroups.com
