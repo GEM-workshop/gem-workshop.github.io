@@ -4,12 +4,11 @@
 layout: default
 title: GEM at ACL 2026 - Call for Papers
 subtitle: The Fifth Generation, Evaluation & Metrics Workshop (GEM)
-permalink: /call-for-papers
 ---
 
 **Event Type:** Call for Papers  
 **Conference:** [ACL 2026](https://2026.aclweb.org/)  
-**Date:** July 2nd or July 3rd, 2026  
+**Date:** July 3rd or July 4th, 2026  
 **Location:** San Diego, California, USA  
 **Contact:** gem-workshop-chairs@googlegroups.com
 
@@ -70,8 +69,8 @@ All accepted papers will be given up to an additional page to address reviewers 
 
 ## **Submission Guidelines**
 
-* Papers to be reviewed should be submitted directly through OpenReview, selecting the appropriate track, and conform to ACL 2026 style guidelines  
-* **Review requirement:** For each submitted paper, authors may be asked to provide 2 reviews (either one author doing 2 reviews, or two authors each doing one review)  
+* Papers to be reviewed should be submitted directly through [OpenReview](https://openreview.net/group?id=aclweb.org/ACL/2026/Workshop/GEM#tab-your-consoles), selecting the appropriate track, and conform to [ACL 2026 style guidelines](https://2026.aclweb.org/calls/main_conference_papers/#paper-submission-details).  
+* **Review requirement (not applicable to ARR-reviewed papers):** For each submitted paper, authors may be asked to provide 2 reviews (either one author doing 2 reviews, or two authors each doing one review). Please provide the Open Review IDs to one or more reviewer(s) on the submission page.  
 * **Length**.   
   * Archival papers should be within 4–8 pages, and opinion/statement papers should be within 2–4 pages. We make no “Short” or “Long” paper distinctions; we advise authors to tailor their submission length proportional to their contribution.   
   * Extended abstracts should be within 1–2 pages.  
@@ -85,7 +84,17 @@ All accepted papers will be given up to an additional page to address reviewers 
 * **April 28, 2026:** Notification of acceptance  
 * **May 14, 2026:** Camera-ready paper due  
 * **June 4, 2026:** Pre-recorded video due (hard deadline)  
-* **July 2–3, 2026:** Workshop at ACL in San Diego
+* **July 3–4, 2026:** Workshop at ACL in San Diego
+
+## **Organizing committee**
+* Simon Mille - ADAPT, Dublin City University
+* Sebastian Gehrmann - Bloomberg
+* Patrícia Schmidtová - Charles University
+* Ondřej Dušek - Charles University
+* Marzieh Fadaee - Cohere
+* Kyle Lo - Allen Institute for AI
+* Enrico Santus - Bloomberg
+* Gabriel Stanovsky - Hebrew University
 
 ## **Contact**
 
