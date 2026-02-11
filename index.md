@@ -61,9 +61,9 @@ In the spirit of San Diego's famous Comic-Con (July 23-26), this year's GEM will
 
 Submissions can take any of the following forms:
 
-* **Archival Papers:** Original and unpublished work, for all the following tracks—**Main, ReproNLP,** and **Opinion/Statement.**   
-* **Non-Archival Extended Abstracts:** Work already presented or under review at a peer-reviewed venue. This is an excellent opportunity to share recent or ongoing work with the GEM community without precluding future publication.  
-* **Findings Papers:** We additionally welcome presentation of relevant papers accepted to Findings, and will share more information at a later date.
+* **Archival Papers:** Original and unpublished work, for all the following tracks—**Main, ReproNLP,** and **Opinion/Statement.** These papers will be **published on the ACL Anthology** in the GEM proceedings, under the ACL 2026 repository.
+* **Non-Archival Extended Abstracts:** Work already presented or under review at a peer-reviewed venue. This is an excellent opportunity to share recent or ongoing work with the GEM community without precluding future publication. These papers will **not appear in any proceedings**.
+* **Findings Papers:** We additionally welcome presentation of relevant papers accepted to the ACL Findings, and will share more information at a later date.
 
 All accepted papers will be given up to an additional page to address reviewers comments.
 
