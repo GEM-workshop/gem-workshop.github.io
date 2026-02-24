@@ -83,7 +83,7 @@ All accepted papers will be given up to an additional page to address reviewers 
 * **April 9, 2026:** Pre-reviewed ARR commitment deadline  
 * **April 28, 2026:** Notification of acceptance  
 * **May 14, 2026:** Camera-ready paper due  
-* **June 4, 2026:** Pre-recorded video due (hard deadline)  
+* **June 4, 2026:** Pre-recorded video due (optional, hard deadline)  
 * **July 3–4, 2026:** Workshop at ACL in San Diego
 
 ## **Organizing committee**
