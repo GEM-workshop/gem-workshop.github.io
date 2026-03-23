@@ -63,7 +63,7 @@ Submissions can take any of the following forms:
 
 * **Archival Papers:** Original and unpublished work, for all the following tracks—**Main, ReproNLP,** and **Opinion/Statement.** These papers will be **published on the ACL Anthology** in the GEM proceedings, under the ACL 2026 repository. These papers can either be:
   * Direct submissions, which are fully reviewed by the GEM program committe (dual submissions not allowed); or
-  * ARR-reviewed papers, which only get a new meta-review based on the existing ARR reviews (dual commitments not allowed).
+  * ARR-reviewed papers, which only get a short meta-review based on the existing ARR reviews and meta-review (dual commitments not allowed).
 * **Non-Archival Extended Abstracts:** Work already presented or under review at a peer-reviewed venue. This is an excellent opportunity to share recent or ongoing work with the GEM community without precluding future publication. These papers will **not appear in any proceedings**.
 * **Findings Papers:** We additionally welcome presentation of relevant papers accepted to the ACL Findings, and will share more information at a later date.
 
