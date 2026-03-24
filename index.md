@@ -73,7 +73,7 @@ All accepted papers will be given up to an additional page to address reviewers 
 
 * Direct submissions (archival and non archival) to be reviewed should be submitted directly through [OpenReview](https://openreview.net/group?id=aclweb.org/ACL/2026/Workshop/GEM#tab-your-consoles), selecting the appropriate track, and conform to [ACL 2026 style guidelines](https://2026.aclweb.org/calls/main_conference_papers/#paper-submission-details).
 * ARR-reviewed papers shoud be submitted through the special [ARR Commitments OpenReview](https://openreview.net/group?id=aclweb.org/ACL/2026/Workshop/GEM_ARR_Commitment#tab-your-consoles).
-* **Review requirement (not applicable to ARR-reviewed papers):** For each submitted paper, authors may be asked to provide 2 reviews (either one author doing 2 reviews, or two authors each doing one review). Please provide the Open Review IDs to one or more reviewer(s) on the submission page.
+* **Review requirement (not applicable to ARR-reviewed GEM commitments):** For each submitted paper, authors may be asked to provide 2 reviews (either one author doing 2 reviews, or two authors each doing one review). Please provide the Open Review IDs to one or more reviewer(s) on the submission page.
 * All papers should include an Ethics statement and a Limitations section, which do not count towards the page limit. References and Appendices do not count towards the page limit.
 * **Length**.   
   * Archival papers should be within 4–8 pages, and opinion/statement papers should be within 2–4 pages. We make no “Short” or “Long” paper distinctions; we advise authors to tailor their submission length proportional to their contribution.   
