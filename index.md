@@ -81,10 +81,10 @@ All accepted papers will be given up to an additional page to address reviewers 
 * **Opinion/Statement Papers:** These should be titled with the “Position:” prefix.  
 * **Dual submission:** Dual submission of archival papers is **not allowed**. Authors interested in presenting work submitted to a different venue should instead use the non-archival extended abstract track.
 
-## **Important Dates**
+## **Important Dates (Anywhere on Earth)**
 
 * **March 19, 2026:** Direct paper submission deadline  
-* **April 9, 2026:** Pre-reviewed ARR commitment deadline  
+* **~~April 9~~ April 15th, 2026:** Pre-reviewed ARR commitment deadline. **Submissions will be accepted until we reach the maximum number of papers we can accommodate, but no later than April 15th AoE.**
 * **April 28, 2026:** Notification of acceptance  
 * **May 14, 2026:** Camera-ready paper due  
 * **June 4, 2026:** Pre-recorded video due (optional, hard deadline)  
