@@ -7,8 +7,8 @@ subtitle: The Fifth Generation, Evaluation & Metrics Workshop (GEM)
 ---
 
 **Event Type:** Call for Papers  
-**Conference:** [ACL 2026](https://2026.aclweb.org/)  
-**Date:** July 3rd or July 4th, 2026  
+**Conference:** [ACL 2026](https://2026.aclweb.org/program/workshops/)  
+**Date:** July 4th, 2026  
 **Location:** San Diego, California, USA  
 **Contact:** gem-workshop-chairs@googlegroups.com
 
@@ -65,7 +65,7 @@ Submissions can take any of the following forms:
   * Direct submissions, which are fully reviewed by the GEM program committe (dual submissions not allowed); or
   * ARR-reviewed papers, which only get a short meta-review based on the existing ARR reviews and meta-review (dual commitments not allowed).
 * **Non-Archival Extended Abstracts:** Direct submissions of work already presented/committed or under review at a peer-reviewed venue. This is an excellent opportunity to share recent or ongoing work with the GEM community without precluding future publication. These papers will **not appear in any proceedings**.
-* **Findings Papers:** We additionally welcome presentation of relevant papers accepted to the ACL Findings, and will share more information at a later date.
+* **Findings Papers:** We additionally welcome presentation of relevant papers accepted to the ACL Findings. Please contact us if you wish to present your Findings paper at GEM! 
 
 All accepted papers will be given up to an additional page to address reviewers comments.
 
@@ -88,7 +88,7 @@ All accepted papers will be given up to an additional page to address reviewers 
 * **April 28, 2026:** Notification of acceptance  
 * **May 14, 2026:** Camera-ready paper due  
 * **June 4, 2026:** Pre-recorded video due (optional, hard deadline)  
-* **July 3–4, 2026:** Workshop at ACL in San Diego
+* **July 4, 2026:** Workshop at ACL in San Diego
 
 ## **Organizing committee**
 * Simon Mille - ADAPT, Dublin City University
