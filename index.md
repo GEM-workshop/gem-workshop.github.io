@@ -65,7 +65,7 @@ Submissions can take any of the following forms:
   * Direct submissions, which are fully reviewed by the GEM program committe (dual submissions not allowed); or
   * ARR-reviewed papers, which only get a short meta-review based on the existing ARR reviews and meta-review (dual commitments not allowed).
 * **Non-Archival Extended Abstracts:** Direct submissions of work already presented/committed or under review at a peer-reviewed venue. This is an excellent opportunity to share recent or ongoing work with the GEM community without precluding future publication. These papers will **not appear in any proceedings**.
-* **Findings Papers:** We additionally welcome presentation of relevant papers accepted to the ACL Findings. Please contact us if you wish to present your Findings paper at GEM! 
+* **Findings Papers:** We additionally welcome presentation of relevant papers accepted to the ACL Findings. Please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSfyL8EQX5tEbuDlOr-L9GdVNFfYzQ7qwwgS3nriw0qD8SjL4g/viewform?usp=dialog) if you wish to present your Findings paper at GEM! 
 
 All accepted papers will be given up to an additional page to address reviewers comments.
 
