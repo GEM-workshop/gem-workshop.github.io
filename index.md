@@ -60,7 +60,7 @@ In the spirit of San Diego's famous Comic-Con (July 23-26), this year's GEM will
 ## **Invited Speakers**
 We will be announcing our amazing invited speakers here!
 
-### Vered Schwartz
+### Vered Shwartz
 
 **Vered Shwartz** is an Assistant Professor of Computer Science at the University of British Columbia, a CIFAR AI Chair at the Vector Institute, and the author of "Lost in Automatic Translation: Navigating Life in English in the Age of Language Technologies". Her current research focus is on (1) testing and improving the capabilities of large language models and vision and language models; (2) developing culturally-competent AI; and (3) responsible NLP applications in sensitive domains (e.g., legal, medical). Before joining UBC, she was a postdoctoral researcher at the Allen Institute for AI (AI2) and the University of Washington. Prior to that, she completed her PhD in Computer Science at Bar-Ilan University.
 
