@@ -8,7 +8,7 @@ subtitle: The Fifth Generation, Evaluation & Metrics Workshop (GEM)
 
 **Event Type:** Call for Papers  
 **Conference:** [ACL 2026](https://2026.aclweb.org/program/workshops/)  
-**Date:** July 4th, 2026 (All day)
+**Date:** July 4th, 2026 (All day)  
 **Location:** San Diego, California, USA  
 **Contact:** gem-workshop-chairs@googlegroups.com
 
