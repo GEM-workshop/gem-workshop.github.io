@@ -60,7 +60,7 @@ In the spirit of San Diego's famous Comic-Con (July 23-26), this year's GEM will
 ## **Invited Speakers**
 We will be announcing our amazing invited speakers here!
 
-<img src="https://github.com/GEM-workshop/gem-workshop.github.io/blob/gh-pages/assets/vered.jpg" width=20% height=20%>
+<img src="assets/vered.jpg" width=20% height=20%>
 
 ### Vered Shwartz (University of British Columbia)
 **Vered Shwartz** is an Assistant Professor of Computer Science at the University of British Columbia, a CIFAR AI Chair at the Vector Institute, and the author of "Lost in Automatic Translation: Navigating Life in English in the Age of Language Technologies". Her current research focus is on (1) testing and improving the capabilities of large language models and vision and language models; (2) developing culturally-competent AI; and (3) responsible NLP applications in sensitive domains (e.g., legal, medical). Before joining UBC, she was a postdoctoral researcher at the Allen Institute for AI (AI2) and the University of Washington. Prior to that, she completed her PhD in Computer Science at Bar-Ilan University.
@@ -71,7 +71,7 @@ We will be announcing our amazing invited speakers here!
 <br>
 <br>
 
-<img src="https://github.com/GEM-workshop/gem-workshop.github.io/blob/gh-pages/assets/swabha.png" width=35% height=35%>
+<img src="assets/swabha.png" width=35% height=35%>
 
 ### Swabha Swayamdipta (University of Southern California)
 **Swabha Swayamdipta** is an Assistant Professor of Computer Science and a co-Associate Director of the Center for AI and Society at the University of Southern California. Her research interests are in natural language processing and machine learning, with a primary interest in the evaluation of generative models of language, understanding the behavior of language models, and designing language technologies for societal good. At USC, Swabha leads the Data, Interpretability, Language and Learning (DILL) Lab. She received her PhD from Carnegie Mellon University, followed by a postdoc at the Allen Institute for AI and the University of Washington. Her work has received outstanding paper awards at EMNLP 2024, ICML 2022, NeurIPS 2021 and ACL 2020. Her research is supported by awards from the NIH, NSF, Apple, the Allen Institute for AI, Intel Labs, the Zumberge Foundation and a WiSE Gabilan Fellowship.
