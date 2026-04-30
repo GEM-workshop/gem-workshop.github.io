@@ -71,7 +71,7 @@ We will be announcing our amazing invited speakers here!
 <br>
 <br>
 
-<img src="{{ '/assets/shwabha' | relative_url }}" width="35%" height="35%">
+<img src="{{ '/assets/swabha' | relative_url }}" width="35%" height="35%">
 
 ### Swabha Swayamdipta (University of Southern California)
 **Swabha Swayamdipta** is an Assistant Professor of Computer Science and a co-Associate Director of the Center for AI and Society at the University of Southern California. Her research interests are in natural language processing and machine learning, with a primary interest in the evaluation of generative models of language, understanding the behavior of language models, and designing language technologies for societal good. At USC, Swabha leads the Data, Interpretability, Language and Learning (DILL) Lab. She received her PhD from Carnegie Mellon University, followed by a postdoc at the Allen Institute for AI and the University of Washington. Her work has received outstanding paper awards at EMNLP 2024, ICML 2022, NeurIPS 2021 and ACL 2020. Her research is supported by awards from the NIH, NSF, Apple, the Allen Institute for AI, Intel Labs, the Zumberge Foundation and a WiSE Gabilan Fellowship.
