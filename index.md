@@ -60,7 +60,7 @@ In the spirit of San Diego's famous Comic-Con (July 23-26), this year's GEM will
 ## **Invited Speakers**
 Here are our three amazing invited speakers (listed alphabetically).
 
-<img src="{{ '/assets/chris.jpg' | relative_url }}" width="20%" height="20%">
+<img src="{{ '/assets/chris.jpg' | relative_url }}" width="35%" height="35%">
 
 ### Chris Callison-Burch (University of Pennsylvania)
 **Chris Callison-Burch** is the Raj and Neera Singh Professor of Artificial Intelligence at the University of Pennsylvania, where he directs the online Master's in AI and teaches Penn Engineering's flagship AI course to more than 500 students each fall. In 2026 he received the Lindback Award for Distinguished Teaching, Penn's highest teaching honor. He chairs the advisory board for the Human Language Technology Center of Excellence at Johns Hopkins University. He testified before Congress in 2023 on generative AI and copyright law, and in 2026 participated in the Isaac Asimov Memorial Debate at the American Museum of Natural History, moderated by Neil deGrasse Tyson. He has authored more than 200 publications with over 36,000 citations, and is a Sloan Research Fellow with research support from DARPA, IARPA, NSF, and industry partners including Google, Microsoft, and Amazon.
