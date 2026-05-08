@@ -58,7 +58,19 @@ We aim to organize the workshop in an inclusive, highly interactive, and discuss
 In the spirit of San Diego's famous Comic-Con (July 23-26), this year's GEM will be a special Comic-Con edition\! We encourage participants to embrace creativity\! Whether that’s through themed poster designs, comic-style slides, or dressing up as your favorite evaluation metric personified, we want this year's workshop to be memorable and fun\!
 
 ## **Invited Speakers**
-We will be announcing our amazing invited speakers here!
+Here are our three amazing invited speakers (listed alphabetically).
+
+<img src="{{ '/assets/chris.jpg' | relative_url }}" width="20%" height="20%">
+
+### Chris Callison-Burch (University of Pennsylvania)
+**Chris Callison-Burch** is the Raj and Neera Singh Professor of Artificial Intelligence at the University of Pennsylvania, where he directs the online Master's in AI and teaches Penn Engineering's flagship AI course to more than 500 students each fall. In 2026 he received the Lindback Award for Distinguished Teaching, Penn's highest teaching honor. He chairs the advisory board for the Human Language Technology Center of Excellence at Johns Hopkins University. He testified before Congress in 2023 on generative AI and copyright law, and in 2026 participated in the Isaac Asimov Memorial Debate at the American Museum of Natural History, moderated by Neil deGrasse Tyson. He has authored more than 200 publications with over 36,000 citations, and is a Sloan Research Fellow with research support from DARPA, IARPA, NSF, and industry partners including Google, Microsoft, and Amazon.
+
+### Autorubric: A Unified Framework for Rubric-Based LLM Evaluation
+**Abstract:** LLM-as-a-judge has become the default for evaluating open-ended generation, but the approach is riddled with silent failure modes, including position bias, verbosity bias, criterion conflation, sycophancy, and run-to-run inconsistency, that corrupt judgments without any visible signal. Mitigations exist, scattered across the LM-as-judge literature and decades of work in psychometrics and educational measurement, but every research group ends up paying a "Reinvention Tax," reimplementing option shuffling, ensemble voting, calibration, and reliability metrics from scratch.
+
+I will present Autorubric, an open-source framework that consolidates these best practices into a single library with opinionated defaults: analytic per-criterion decomposition, mixed criterion types, ensemble judging, length penalties, and a full suite of psychometric reliability metrics. Beyond measurement, Autorubric's mandatory per-criterion explanations function as "textual gradients" for two downstream applications: rubric-guided prompt induction and RL with rubric rewards. Autorubric is available at [](autorubric.org).
+
+<br>
 
 <img src="{{ '/assets/vered.jpg' | relative_url }}" width="20%" height="20%">
 
@@ -78,7 +90,6 @@ We will be announcing our amazing invited speakers here!
 ### Small Samples, Big Reveal: What can we learn from limited observations of language model behavior?
 **Abstract:** The majority of popular language models today are both large-scale and close-sourced, making studying their behavior quite challenging. This talk tries to answer how much we can learn from limited observations of language model behavior. First, we show that language models can be reliably evaluated using even randomly selected microbenchmarks of a certain size. Second, we use language model outputs, i.e. next-token probability distributions, to build prompt inversion attacks to reveal hidden prompts with high accuracy. These findings highlight the importance of scientific research into large language models without access to large computation resources, while still allowing accountability for the providers, as well as efficient and reliable evaluation.
 
-### More to come!
 
 ## **Submission Types**
 
