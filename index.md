@@ -101,8 +101,6 @@ Submissions can take any of the following forms:
 * **Non-Archival Extended Abstracts:** Direct submissions of work already presented/committed or under review at a peer-reviewed venue. This is an excellent opportunity to share recent or ongoing work with the GEM community without precluding future publication. These papers will **not appear in any proceedings**.
 * **Findings Papers:** We additionally welcome presentation of relevant papers accepted to the ACL Findings. Please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSfyL8EQX5tEbuDlOr-L9GdVNFfYzQ7qwwgS3nriw0qD8SjL4g/viewform?usp=dialog) if you wish to present your Findings paper at GEM! 
 
-All accepted papers will be given up to an additional page to address reviewers comments.
-
 ## **Submission Guidelines**
 
 * Direct submissions (archival and non archival) to be reviewed should be submitted directly through [OpenReview](https://openreview.net/group?id=aclweb.org/ACL/2026/Workshop/GEM#tab-your-consoles), selecting the appropriate track, and conform to [ACL 2026 style guidelines](https://2026.aclweb.org/calls/main_conference_papers/#paper-submission-details).
@@ -111,9 +109,11 @@ All accepted papers will be given up to an additional page to address reviewers 
 * All papers should include an Ethics statement and a Limitations section, which do not count towards the page limit. References and Appendices do not count towards the page limit either.
 * **Length**.   
   * Archival papers should be within 4–8 pages, and opinion/statement papers should be within 2–4 pages. We make no “Short” or “Long” paper distinctions; we advise authors to tailor their submission length proportional to their contribution.   
-  * Extended abstracts should be within 1–2 pages.  
+  * Extended abstracts should be within 1–2 pages.
+  * All accepted papers will be given up to an additional page to address reviewers comments.
 * **Opinion/Statement Papers:** These should be titled with the “Position:” prefix.  
 * **Dual submission:** Dual submission of archival papers is **not allowed**. Authors interested in presenting work submitted to a different venue should instead use the non-archival extended abstract track.
+
 
 ## **Important Dates (Anywhere on Earth)**
 
