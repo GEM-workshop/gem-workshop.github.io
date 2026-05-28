@@ -127,7 +127,7 @@ Submissions can take any of the following forms:
 ## Program
 
 | Time | Session |
-|--------|------|
+|:--------|:------|
 | 08:55-09:10 | Opening remarks |
 | **09:10-10:20** | **Oral session #1** |
 | 09:10-09:50 | Invited talk #1 Vered Shwartz |
