@@ -125,6 +125,7 @@ Submissions can take any of the following forms:
 * **July 4, 2026:** Workshop at ACL in San Diego
 
 ## Program
+
 | Time | Session |
 |--------|------|
 | 08:55-09:10 | Opening remarks |
