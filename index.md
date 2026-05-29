@@ -132,25 +132,25 @@ Submissions can take any of the following forms:
 |:--------|:------|:------|
 | 08:55-09:10 | Opening remarks | |
 | **09:10-10:20** | **Oral session #1** | |
-| 09:10-09:50 | *Invited talk #1 Vered Shwartz* | *Follow the Evidence: Diagnosing the What, Where, and Why of Generative Model Failures* |
-| 09:50-10:05 | *Oral presentation #1 (TBD)* | |
-| 10:05-10:20 | *Oral presentation #2 (TBD)* | |
+| *09:10-09:50* | *Invited talk #1 Vered Shwartz* | *Follow the Evidence: Diagnosing the What, Where, and Why of Generative Model Failures* |
+| *09:50-10:05* | *Oral presentation #1 (TBD)* | |
+| *10:05-10:20* | *Oral presentation #2 (TBD)* | |
 | **10:20-10:50** | **Coffee break** | |
 | **10:50-11:30** | **Oral session #2** | |
-| 10:50-11:15 | *Anya Belz, Craig Thomson, Javier González Corbelle* | *The Shared Task on Reproducibility of Evaluations in NLP (ReproNLP) 2026: Overview and Results* |
-| 11:15-11:30 | *Oral presentation #3 (TBD)* | |
+| *10:50-11:15* | *Anya Belz, Craig Thomson, Javier González Corbelle* | *The Shared Task on Reproducibility of Evaluations in NLP (ReproNLP) 2026: Overview and Results* |
+| *11:15-11:30* | *Oral presentation #3 (TBD)* | |
 | **11:35-12:35** | **Poster session #1** | |
 |  | | *All posters, see list of papers below* |
 | **12:35-13:55** | **Lunch break** | |
 | **13:55-14:55** | **Poster session #2** | |
 |  | | *All posters, see list of papers below* |
 | **15:00-15:40** | **Oral session #3** | |
-| 15:00-15:40 | *Invited talk #2 Swabha Swayamdipta* | *Small Samples, Big Reveal: What can we learn from limited observations of language model behavior?* |
+| *15:00-15:40* | *Invited talk #2 Swabha Swayamdipta* | *Small Samples, Big Reveal: What can we learn from limited observations of language model behavior?* |
 | **15:40-16:10** | **Coffee break** | |
 | **16:10-17:20** | **Oral session #4** | |
-| 16:10-16:25 | *Oral presentation #4 (TBD)* | |
-| 16:25-16:40 | *Oral presentation #5 (TBD)* | |
-| 16:40-17:20 | *Invited talk #3 Chris Callison-Burch* | *Autorubric: A Unified Framework for Rubric-Based LLM Evaluation |
+| *16:10-16:25* | *Oral presentation #4 (TBD)* | |
+| *16:25-16:40* | *Oral presentation #5 (TBD)* | |
+| *16:40-17:20* | *Invited talk #3 Chris Callison-Burch* | *Autorubric: A Unified Framework for Rubric-Based LLM Evaluation |
 | 17:20-17:30 | Closing session | |
 
 </div>
