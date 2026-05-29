@@ -127,6 +127,7 @@ Submissions can take any of the following forms:
 ## Program
 
 <div class="table-responsive" markdown="1">
+ 
 | Time | Session |
 |:--------|:------|
 | 08:55-09:10 | Opening remarks |
@@ -151,6 +152,7 @@ Submissions can take any of the following forms:
 | 16:25-16:40 | Oral presentation #5 (TBD) |
 | 16:40-17:20 | Invited talk #3 Chris Callison-Burch |
 | 17:20-17:30 | Closing session |
+
 </div>
 
 ## **Organizing committee**
