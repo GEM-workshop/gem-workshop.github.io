@@ -150,7 +150,7 @@ Submissions can take any of the following forms:
 | **16:10-17:20** | **Oral session #4** | |
 | *16:10-16:25* | *Oral presentation #4 (TBD)* | |
 | *16:25-16:40* | *Oral presentation #5 (TBD)* | |
-| *16:40-17:20* | *Invited talk #3 Chris Callison-Burch* | *Autorubric: A Unified Framework for Rubric-Based LLM Evaluation |
+| *16:40-17:20* | *Invited talk #3 Chris Callison-Burch* | *Autorubric: A Unified Framework for Rubric-Based LLM Evaluation* |
 | 17:20-17:30 | Closing session | |
 
 </div>
