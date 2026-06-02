@@ -89,6 +89,38 @@ Submissions can take any of the following forms:
 * **June 4, 2026:** Pre-recorded video due (optional, hard deadline)  
 * **July 4, 2026:** Workshop at ACL in San Diego
 
+## **Programme**
+More details on [main page](https://gem-workshop.com/)!
+
+<div class="table-responsive" markdown="1">
+ 
+| Time | Session/Authors | Title
+|:--------|:------|:------|
+| 08:55-09:10 | Opening remarks | |
+| **09:10-10:20** | **Oral session #1** | |
+| *09:10-09:50* | *Invited talk #1 Vered Shwartz* | Follow the Evidence: Diagnosing the What, Where, and Why of Generative Model Failures |
+| *09:50-10:05* | *Erfan Nourbakhsh, Mohammad Sadegh, Seyed Amir, Khoa Nguyen, John Quarles, Mimi Xie, Rocky Slavin* | Are LLM Benchmarks Already Contaminated? A Systematic Review of Contamination Detection Methods | |
+| *10:05-10:20* | *Craig Thomson, Javier González, Anya Belz* | Process Standardisation for Human Evaluation of NLP System Outputs |
+| **10:20-10:50** | **Coffee break** | |
+| **10:50-11:30** | **Oral session #2** | |
+| *10:50-11:15* | *Anya Belz, Craig Thomson, Javier González Corbelle* | The Shared Task on Reproducibility of Evaluations in NLP (ReproNLP) 2026: Overview and Results |
+| *11:15-11:30* | *Davan Harrison, Marilyn Walker* | Cross-Domain Semantic Fidelity Evaluation for Meaning-to-Text Generation |
+| **11:35-12:35** | **Poster session #1** | |
+|  | *See list of authors below* | *All posters, see list of papers below* |
+| **12:35-13:55** | **Lunch break** | |
+| **13:55-14:55** | **Poster session #2** | |
+|  | *See list of authors below* | *All posters, see list of papers below* |
+| **15:00-15:40** | **Oral session #3** | |
+| *15:00-15:40* | *Invited talk #2 Swabha Swayamdipta* | Small Samples, Big Reveal: What can we learn from limited observations of language model behavior? |
+| **15:40-16:10** | **Coffee break** | |
+| **16:10-17:20** | **Oral session #4** | |
+| *16:10-16:25* | *Avni Mittal, Rauno Arike* | C2-Faith: Benchmarking LLM Judges for Causal and Coverage Faithfulness in Chain-of-Thought Reasoning |
+| *16:25-16:40* | *Zefang Liu, Yinzhu Quan* | EconWebArena: Benchmarking Autonomous Agents on Economic Tasks in Realistic Web Environments |
+| *16:40-17:20* | *Invited talk #3 Chris Callison-Burch* | Autorubric: A Unified Framework for Rubric-Based LLM Evaluation |
+| 17:20-17:30 | Closing session | |
+
+</div>
+
 ## **Organizing committee**
 * Simon Mille - ADAPT, Dublin City University
 * Sebastian Gehrmann - Bloomberg
