@@ -19,34 +19,129 @@ In the spirit of San Diego's famous Comic-Con (July 23-26), this year's GEM will
 
 ## Program
 
-<div class="table-responsive" markdown="1">
- 
-| Time | Session/Authors | Title
-|:--------|:------|:------|
-| 08:55-09:10 | Opening remarks | |
-| **09:10-10:20** | **Oral session #1** | |
-| *09:10-09:50* | *Invited talk #1 Vered Shwartz* | Follow the Evidence: Diagnosing the What, Where, and Why of Generative Model Failures |
-| *09:50-10:05* | *Erfan Nourbakhsh, Mohammad Sadegh, Seyed Amir, Khoa Nguyen, John Quarles, Mimi Xie, Rocky Slavin* | Are LLM Benchmarks Already Contaminated? A Systematic Review of Contamination Detection Methods | |
-| *10:05-10:20* | *Craig Thomson, Javier González, Anya Belz* | Process Standardisation for Human Evaluation of NLP System Outputs |
-| **10:20-10:50** | **Coffee break** | |
-| **10:50-11:30** | **Oral session #2** | |
-| *10:50-11:15* | *Anya Belz, Craig Thomson, Javier González Corbelle* | The Shared Task on Reproducibility of Evaluations in NLP (ReproNLP) 2026: Overview and Results |
-| *11:15-11:30* | *Davan Harrison, Marilyn Walker* | Cross-Domain Semantic Fidelity Evaluation for Meaning-to-Text Generation |
-| **11:35-12:35** | **Poster session #1** | |
-|  | *See list of authors below* | *All posters, see list of papers below* |
-| **12:35-13:55** | **Lunch break** | |
-| **13:55-14:55** | **Poster session #2** | |
-|  | *See list of authors below* | *All posters, see list of papers below* |
-| **15:00-15:40** | **Oral session #3** | |
-| *15:00-15:40* | *Invited talk #2 Swabha Swayamdipta* | Small Samples, Big Reveal: What can we learn from limited observations of language model behavior? |
-| **15:40-16:10** | **Coffee break** | |
-| **16:10-17:20** | **Oral session #4** | |
-| *16:10-16:25* | *Avni Mittal, Rauno Arike* | C2-Faith: Benchmarking LLM Judges for Causal and Coverage Faithfulness in Chain-of-Thought Reasoning |
-| *16:25-16:40* | *Zefang Liu, Yinzhu Quan* | EconWebArena: Benchmarking Autonomous Agents on Economic Tasks in Realistic Web Environments |
-| *16:40-17:20* | *Invited talk #3 Chris Callison-Burch* | Autorubric: A Unified Framework for Rubric-Based LLM Evaluation |
-| 17:20-17:30 | Closing session | |
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Time</th>
+<th style="text-align:left">Session/Authors</th>
+<th style="text-align:left">Title</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">08:55-09:10</td>
+<td style="text-align:left">Opening remarks</td>
+<td style="text-align:left"></td>
+</tr>
+<tr style="background-color: #e6f2ff;">
+<td style="text-align:left"><strong>09:10-10:20</strong></td>
+<td style="text-align:left"><strong>Oral session #1</strong></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><em>09:10-09:50</em></td>
+<td style="text-align:left"><em>Invited talk #1 Vered Shwartz</em></td>
+<td style="text-align:left">Follow the Evidence: Diagnosing the What, Where, and Why of Generative Model Failures</td>
+</tr>
+<tr>
+<td style="text-align:left"><em>09:50-10:05</em></td>
+<td style="text-align:left"><em>Erfan Nourbakhsh, Mohammad Sadegh, Seyed Amir, Khoa Nguyen, John Quarles, Mimi Xie, Rocky Slavin</em></td>
+<td style="text-align:left">Are LLM Benchmarks Already Contaminated? A Systematic Review of Contamination Detection Methods</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:left"><em>10:05-10:20</em></td>
+<td style="text-align:left"><em>Craig Thomson, Javier González, Anya Belz</em></td>
+<td style="text-align:left">Process Standardisation for Human Evaluation of NLP System Outputs</td>
+</tr>
+<tr style="background-color: #f2f2f2;">
+<td style="text-align:left"><strong>10:20-10:50</strong></td>
+<td style="text-align:left"><strong>Coffee break</strong></td>
+<td style="text-align:left"></td>
+</tr>
+<tr style="background-color: #e6f2ff;">
+<td style="text-align:left"><strong>10:50-11:30</strong></td>
+<td style="text-align:left"><strong>Oral session #2</strong></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><em>10:50-11:15</em></td>
+<td style="text-align:left"><em>Anya Belz, Craig Thomson, Javier González Corbelle</em></td>
+<td style="text-align:left">The Shared Task on Reproducibility of Evaluations in NLP (ReproNLP) 2026: Overview and Results</td>
+</tr>
+<tr>
+<td style="text-align:left"><em>11:15-11:30</em></td>
+<td style="text-align:left"><em>Davan Harrison, Marilyn Walker</em></td>
+<td style="text-align:left">Cross-Domain Semantic Fidelity Evaluation for Meaning-to-Text Generation</td>
+</tr>
+<tr style="background-color: #e6f2ff;">
+<td style="text-align:left"><strong>11:35-12:35</strong></td>
+<td style="text-align:left"><strong>Poster session #1</strong></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"><em>See list of authors below</em></td>
+<td style="text-align:left"><em>All posters, see list of papers below</em></td>
+</tr>
+<tr style="background-color: #f2f2f2;">
+<td style="text-align:left"><strong>12:35-13:55</strong></td>
+<td style="text-align:left"><strong>Lunch break</strong></td>
+<td style="text-align:left"></td>
+</tr>
+<tr style="background-color: #e6f2ff;">
+<td style="text-align:left"><strong>13:55-14:55</strong></td>
+<td style="text-align:left"><strong>Poster session #2</strong></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"><em>See list of authors below</em></td>
+<td style="text-align:left"><em>All posters, see list of papers below</em></td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>15:00-15:40</strong></td>
+<td style="text-align:left"><strong>Oral session #3</strong></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><em>15:00-15:40</em></td>
+<td style="text-align:left"><em>Invited talk #2 Swabha Swayamdipta</em></td>
+<td style="text-align:left">Small Samples, Big Reveal: What can we learn from limited observations of language model behavior?</td>
+</tr>
+<tr style="background-color: #f2f2f2;">
+<td style="text-align:left"><strong>15:40-16:10</strong></td>
+<td style="text-align:left"><strong>Coffee break</strong></td>
+<td style="text-align:left"></td>
+</tr>
+<tr style="background-color: #e6f2ff;">
+<td style="text-align:left"><strong>16:10-17:20</strong></td>
+<td style="text-align:left"><strong>Oral session #4</strong></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><em>16:10-16:25</em></td>
+<td style="text-align:left"><em>Avni Mittal, Rauno Arike</em></td>
+<td style="text-align:left">C2-Faith: Benchmarking LLM Judges for Causal and Coverage Faithfulness in Chain-of-Thought Reasoning</td>
+</tr>
+<tr>
+<td style="text-align:left"><em>16:25-16:40</em></td>
+<td style="text-align:left"><em>Zefang Liu, Yinzhu Quan</em></td>
+<td style="text-align:left">EconWebArena: Benchmarking Autonomous Agents on Economic Tasks in Realistic Web Environments</td>
+</tr>
+<tr>
+<td style="text-align:left"><em>16:40-17:20</em></td>
+<td style="text-align:left"><em>Invited talk #3 Chris Callison-Burch</em></td>
+<td style="text-align:left">Autorubric: A Unified Framework for Rubric-Based LLM Evaluation</td>
+</tr>
+<tr>
+<td style="text-align:left">17:20-17:30</td>
+<td style="text-align:left">Closing session</td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
 
-</div>
 
 ## **Invited Speakers**
 Here are our three amazing invited speakers (by order in the program).
