@@ -177,6 +177,8 @@ I will present Autorubric, an open-source framework that consolidates these best
 <br>
 
 ## **Posters: 11:35-12:35 and 13:55-14:55**
+
+### Direct submissions
 - DISCO: Diversifying Sample Condensation for Efficient Model Evaluation. *Alexander Rubinstein, Benjamin Raible, Martin Gubri, Seong Joon.*
 - CoSy: Conversational Synthesis for Grounded Question Answering. *Patrick Huber, Arash Einolghozati, Rylan Conway, Kanika Narang, Matt Smith, Waqar Nayyar, Adithya Sagar, Ahmed A, Akshat Shrivastava.*
 - Position: Toward a Metric Typology for Language Model Evaluation. *Jasper Kyle.*
@@ -254,6 +256,8 @@ I will present Autorubric, an open-source framework that consolidates these best
 - ReproHum: #0033-05: Human Evaluation Report on "Generating Scientific Definitions with Controllable Complexity". *Ines Arous, Jackie Chi.*
 - The Shared Task on Reproducibility of Evaluations in NLP (ReproNLP) 2026: Overview and Results. *Anya Belz, Craig Thomson, Javier González.*
 - ReproHum #0669-08: Reproducing a Recipe for Arbitrary Text Style Transfer with LLMs. *Saad Mahamood.*
+
+### ARR commitments
 - Language Modeling for the Future of Finance: A Survey into Metrics, Tasks, and Data Opportunities. *Nikita Tatarinov, Siddhant Sukhani, Agam Shah, Sudheer Chava.*
 - WildIFEval: Instruction Following in the Wild. *Gili Lior, Asaf Yehudai, Ariel Gera, Liat Ein-Dor.*
 - EconWebArena: Benchmarking Autonomous Agents on Economic Tasks in Realistic Web Environments. *Zefang Liu, Yinzhu Quan.*
@@ -267,6 +271,14 @@ I will present Autorubric, an open-source framework that consolidates these best
 - Who Endorsed It? Measuring Authority Bias Across Expertise Levels in Language Models. *Priyanka Mary, Emil Joswin, Shankar Venkitachalam.*
 - Reference Games as a Testbed for the Alignment of Model Uncertainty and Clarification Requests. *Manar Ali, Judith Sieker, Sina Zarrieß, Hendrik Buschmeier.*
 - Mapping Out the NLP Evaluation Landscape with a Standard Taxonomy of Quality Criteria. *Anya Belz, Simon Mille, Craig Thomson.*
+
+### Findings
+- Gaperon: A Peppered English-French Generative Language Model Suite. *Nathan Godey, Wissam Antoun, Rian Touchent, Rachel Bawden, Éric de la Clergerie, Benoît Sagot, Djamé Seddah*
+- MedScore: Generalizable Factuality Evaluation of Open-ended Long-form Medical Answers by Domain-adapted Claim Decomposition and Verification. *Heyuan Huang, Alexandra DeLucia, Vijay Murari Tiyyala, Mark Dredze*
+- LLM Multi-Agent Systems for Long Triple Set Data-to-Text Generation. *Chinonso Cynthia Osuji, Simon Mille, Mark Andrade, Jane Adkins, Ornait O’Connell, Elaine Uí Dhonnchadha, Bláithín Heffernan, Fírinne Nic an tSaoir, Anya Belz, Thiago Castro Ferreira, Brian Davis*
+- Automatic Paper Analysis and Categorisation for Systematic Reviews with Combined Reasoning-Augmented SFT and DAPO RL. *Michela Lorandi, Anya Belz, Simon Mille, Craig Thomson*
+- Carefully Considering Culture: Analyzing LLM Alignment in Single- and Multi-Cultural Settings using Cultural Consensus Theory. *Krishna	Pothugunta, John P. Lalor*
+
 
 ## **Organizing committee**
 * Simon Mille - ADAPT, Dublin City University
