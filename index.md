@@ -217,7 +217,7 @@ I will present Autorubric, an open-source framework that consolidates these best
 - SAUCE: Summary Analysis Using Conversation Entailment. *Man-Ling Sung, Hemanth Kandula, Jeff Ma, William Hartmann, Matthew Snover.*
 - Evaluating ASR Quality at Scale on TV Entertainment Platforms. *Adeep Hande, Kishorekumar Sundararajan, Yidnekachew Endale, Akshatha Bapu, Sachin Dabral, Dawn Reed, Michael Pereira.*
 - Teaching Values to Machines: Simulating Human-Like Value-Behavior Relationships in LLMs. *Asaf Yehudai, Naama Rozen, Ariel Gera.*
-- Fine-Tuning vs. RAG for Multi-Hop Question Answering with Novel Knowledge. *Zhuoyi Yang, Yurun song, Kyler G., Iftekhar Ahmed, Ian Harris.*
+- Fine-Tuning vs. RAG for Multi-Hop Question Answering with Novel Knowledge. *Zhuoyi Yang, Yurun song, Kyler G. Harris, Iftekhar Ahmed, Ian Harris.*
 - MHGraphBench: Knowledge Graph-Grounded Benchmarking of Mental Health Knowledge in Large Language Models. *Weixin Liu, Congning Ni, Shelagh A., Susannah L., Murat Kantarcioglu, Bradley A., Zhijun Yin.*
 - A Progressive Evaluation Framework for Multicultural Analysis of Story Visualization. *Janak Kapuriya, Ali Hatami, Paul Buitelaar.*
 - Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization. *Long Chen, Ryan Razkenari, Yuxuan Zhou, Yuan Tian, Rahul Ghosh, Venkatesh Pappakrishnan, Disha Ahuja, Vidya Sagar.*
