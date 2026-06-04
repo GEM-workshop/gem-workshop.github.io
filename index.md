@@ -178,20 +178,13 @@ I will present Autorubric, an open-source framework that consolidates these best
 
 ## **Posters: 11:35-12:35 and 13:55-14:55**
 
-### Direct submissions
-- DISCO: Diversifying Sample Condensation for Efficient Model Evaluation. *Alexander Rubinstein, Benjamin Raible, Martin Gubri, Seong Joon.*
+### In-person posters
+#### Direct submissions
 - CoSy: Conversational Synthesis for Grounded Question Answering. *Patrick Huber, Arash Einolghozati, Rylan Conway, Kanika Narang, Matt Smith, Waqar Nayyar, Adithya Sagar, Ahmed A, Akshat Shrivastava.*
 - Position: Toward a Metric Typology for Language Model Evaluation. *Jasper Kyle.*
 - VAIDYA: Validated Agents for Intelligent Diagnosis and Yielded Analysis. *Kalash Shah, Gautam Bhutani, Rohitaswa Sarbhangia, J Snehan.*
-- Self-Anchoring Calibration Drift in Large Language Models: How Multi-Turn Conversations Reshape Model Confidence. *Harshavardhan .*
 - Temporal Tokenization Strategies for Event Sequence Modeling with Large Language Models. *Zefang Liu, Nam H, Yinzhu Quan, Shi-Xiong Zhang.*
 - “Be My Cheese?”: Cultural Nuance Benchmarking for Machine Translation in Multilingual LLMs. *Madison Van, Casey Ford, Riley VanMeter, Jennifer Barajas, Cory Holland.*
-- Position: What Are We Measuring? Rethinking Evaluation in Natural Language Generation. *Wajdi Zaghouani.*
-- Component Transfer Can Exceed Full Model Performance: Investigating Post-Trained Mixture-of-Experts. *Rabin Tiwari.*
-- CAMEL: Learning Community-Aligned Metrics and Weights for LLM Evaluation. *Ji Yong, Bumsoo Kang, June Yong, Youngsoo Jang, Chang Liu, Moontae Lee.*
-- Reassessing Extractive QA Datasets at Scale: LLM-as-a-Judge and In-Depth Analyses. *Xanh Ho, Jiahao Huang, Florian Boudin, Akiko Aizawa.*
-- IndicMMLU-Pro: Benchmarking Indic Large Language Models on Multi-Task Language Understanding. *Sankalp Jajee, Ashutosh Kumar, Nikunj Kotecha, Vinija Jain, Aman Chadha, Sreyoshi Bhaduri.*
-- Identifying Where Large Language Models Struggle in Answering Complex Questions. *Xanh Ho, Florian Boudin, Saku Sugawara, Khoa Duong, Akiko Aizawa.*
 - More Yap Less Meaning: Uncovering Self-Improvement Behavior in SLMs. *Marina Igitkhanian, Erik Arakelyan.*
 - Reinforced Agent: Inference-Time Feedback for Tool-Calling Agents. *Anh Ta, Shahin Shayandeh, Junjie Zhu.*
 - Reviewing Only 1/10 of Submissions: Efficient Human-in-the-Loop Discovery for Approach-Aware LLM Grading. *Jinglun Zhao, Zijian Zhang, Jiaxuan Gao, Yi Wu.*
@@ -200,64 +193,41 @@ I will present Autorubric, an open-source framework that consolidates these best
 - RE-AD: Real-Time Requirement Adherence for Data Labeling. *Siddarth Malreddy, Ishan Nigam, Akshay Arora, Nikhil Mittal, Subrat Sahu.*
 - Lost in Space: Finding the Right Tokens for Structured Output. *Sil Hamilton, David Mimno.*
 - An Empirical Study of LLM-as-a-Judge: How Design Choices Impact Evaluation Reliability. *Yusuke Yamauchi, Taro Yano, Masafumi Oyamada.*
-- Consensus Group Relative Policy Optimization for Distilling Minimum Bayes Risk Decoding. *Yuki Ichihara, Yuu Jinnai, Kaito Ariu, Eiji Uchibe.*
 - Capturing Epistemic Uncertainty in LLM-Based Soft Labeling. *Yanru Jiang, Siyu Liang.*
 - Mind the Gap... or Not? How Translation Errors and Evaluation Details Skew Multilingual Results. *Jan-Thorsten Peter, David Vilar, Tobias Domhan, Dan Malkin, Markus Freitag.*
-- MCJudgeBench: A Benchmark for Constraint-Level Judge Evaluation in Multi-Constraint Instruction Following. *Jaeyun Lee, Junyoung Koh, Zeynel Tok, Hunar Batra, Ronald Clark.*
 - MedAct: Removing the Human Bottleneck in Benchmarking Clinical LLM Safety. *Arjun Krishna, Brian Pridgen, Max Silverstein.*
 - Response Content Units: Evaluating Completeness and Proactiveness in Medical Open-Response Question Answering. *Yongsin Park, Wen-wai Yim, Emma McKibbin, Asma Ben, Fei Xia.*
 - Position: Evaluation Scores Are Perishable Knowledge Claims. *Sankalp Gilda, Shlok Gilda.*
 - LFQA-HP-1M: A Large-Scale Human Preference Dataset for Long-Form Question Answering. *Rafid Ishrak, FAHMID SHAHRIAR, Sagnik Ray.*
 - NanoFlux: Adversarial Dual-LLM Evaluation and Distillation for Multi-Domain Reasoning. *Raviteja Anantha, Soheil Hor, Teodor Nicola, Layne C.*
 - Evaluating the Reliability of LLMs in Faithfully Updating Text: An Empirical Study. *Ayan Datta, Paheli Bhattacharya, Rishabh Gupta.*
-- Position: A Semiotic-Hermeneutic Approach to Evaluating Meaning in LLM Summaries via the Inductive Conceptual Rating Metric. *Natalie Perez, Aman Chadha, Sreyoshi Bhaduri.*
-- Not All Tokens Are Equal: Per-Dimension Top-K Pooling for Adversarially Robust BERT Classification. *Manoranjan Dash, Shivam Anand, Shanay Sheth, Pranav Shinde.*
-- Near-Miss: Latent Policy Failure Detection in Agentic Workflows. *Ella Rabinovich, David Boaz, Naama Zwerdling, Ateret Anaby.*
 - Evaluating Counterfactual Strategic Reasoning in Large Language Models. *Dimitrios Georgousis, Maria Lymperaiou, Angeliki Dimitriou, Giorgos Filandrianos, Giorgos Stamou.*
 - A Psychology-based Unified Dynamic Framework for Curriculum Learning. *Guangyu Meng, John P. Lalor.*
-- Speculative Refinement: A Hybrid Autoregressive Diffusion Decoding Strategy and Its Behavior Across Benchmarks. *Aditi Gupta, Neel Mishra, Kushagra Trivedi, Pawan Kumar.*
 - SAUCE: Summary Analysis Using Conversation Entailment. *Man-Ling Sung, Hemanth Kandula, Jeff Ma, William Hartmann, Matthew Snover.*
-- Evaluating ASR Quality at Scale on TV Entertainment Platforms. *Adeep Hande, Kishorekumar Sundararajan, Yidnekachew Endale, Akshatha Bapu, Sachin Dabral, Dawn Reed, Michael Pereira.*
 - Teaching Values to Machines: Simulating Human-Like Value-Behavior Relationships in LLMs. *Asaf Yehudai, Naama Rozen, Ariel Gera.*
 - Fine-Tuning vs. RAG for Multi-Hop Question Answering with Novel Knowledge. *Zhuoyi Yang, Yurun song, Kyler G. Harris, Iftekhar Ahmed, Ian Harris.*
 - MHGraphBench: Knowledge Graph-Grounded Benchmarking of Mental Health Knowledge in Large Language Models. *Weixin Liu, Congning Ni, Shelagh A., Susannah L., Murat Kantarcioglu, Bradley A., Zhijun Yin.*
-- A Progressive Evaluation Framework for Multicultural Analysis of Story Visualization. *Janak Kapuriya, Ali Hatami, Paul Buitelaar.*
 - Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization. *Long Chen, Ryan Razkenari, Yuxuan Zhou, Yuan Tian, Rahul Ghosh, Venkatesh Pappakrishnan, Disha Ahuja, Vidya Sagar.*
 - Cross-Domain Semantic Fidelity Evaluation for Meaning-to-Text Generation. *Davan Harrison, Marilyn Walker.*
-- E-star 12B: Reliable Rubric-Following and Domain-Adaptive SLM Evaluator for Korean Industrial Settings. *Yonghoon Kwon, Heondeuk Lee, Barom Kang.*
 - Pressure-Testing Deception Probes in LLMs: Scaling, Robustness, and the Geometry of Deceptive Representations. *Sachin Kumar.*
 - S-GRADES - Studying Generalization of Student Response Assessments in Diverse Evaluative Settings. *Tasfia Seuti, Sagnik Ray.*
 - Sycophancy Negatively Affects LLM-as-a-Judge in Conflict Evaluation. *Naghmeh Farzi, Laura Dietz, Samuel Carton.*
 - Concord: An Agreement-Aware Multi-Adjudication Pipeline for LLM Evaluation. *Tyler Bliss, Mahit Verma, Neil Iyer-Singh, Subrata Biswas, S. A., Bashima Islam.*
 - ScienceMeter: Tracking Scientific Knowledge Updates in Language Models. *Yike Wang, Shangbin Feng, Yulia Tsvetkov, Hannaneh Hajishirzi.*
-- The Silent Vote: Improving Zero-Shot LLM Reliability by Aggregating Semantic Neighborhoods. *Sanket Badhe, Priyanka Tiwari, Deep Shah.*
 - From XAI to Stories: A Factorial Study of LLM-Generated Explanation Quality. *Fabian Lukassen, Jan Herrmann, Christoph Weisser, Benjamin Säfken, Thomas Kneib.*
 - Are LLM Benchmarks Already Contaminated? A Systematic Review of Contamination Detection Methods. *Erfan Nourbakhsh, Mohammad Sadegh, Seyed Amir, Khoa Nguyen, John Quarles, Mimi Xie, Rocky Slavin.*
-- RBCorr: Response Bias Correction in Language Models. *Om Bhatt, Anna A.*
 - Exploring Coherence of LLMs in Multilingual Question Answering. *Stefano Campese, Ivano Lauriola.*
 - Beyond Consensus: Evaluating Multi-Agent LLM Debates through a Deliberative Democracy Framework. *Priya Pitre, Gaurav Srivastava, Lu Zhang, Le Wang, Naren Ramakrishnan, Xuan Wang.*
-- Token Cost Inequality: Measuring Tokenization Disparities Across Scripts in Roman Urdu and Urdu. *Waleed Jamil, Saima Rafi, Yanchao Yu.*
 - Semantic vs. Structural Signals: Log-Probability and LLM-as-a-Judge for Reference-Free Code Evaluation. *Dmitriy Fedrushkov, Yulong He, Ivan Smirnov, Artem Aliev, Sergey Kovalchuk.*
 - Statistically Reliable LLM-Based Ranking Evaluation via Prediction-Powered Inference. *Abhishek Divekar.*
 - Stability vs. Manipulability: Evaluating Robustness Under Post-Decision Interaction in LLM Judges. *Srimonti Dutta, Akshata Kishore.*
 - Permutation-Consensus Listwise Judging for Robust Factuality Evaluation. *Tianyi Huang, Nathan Huang, Justin Tang, Wenqian Chen, Elsa Fan.*
-- MedFact: Benchmarking the Fact-Checking Capabilities of Large Language Models on Chinese Medical Texts. *Ivy He, Yangmin Huang, Qianyun Du, Xiangying Zhou, Zhiyang He, Jiaxue Hu, Xiaodong Tao, Lixian Lai.*
 - Position: Scores Without Context? Rethinking the Role of Evaluation in the Era of LLMs. *Jiawei Zhou.*
 - Early-Token Confidence Predicts Reasoning Quality in Multi-Agent LLM Debate. *Ali Keramati, Justin Cheok, Jacob Horne, Mark Warschauer.*
-- Complex-IF and Beyond: Expert Rubrics for RLVR. *Sushant Mehta.*
 - C2-Faith: Benchmarking LLM Judges for Causal and Coverage Faithfulness in Chain-of-Thought Reasoning. *Avni Mittal, Rauno Arike.*
-- Evaluating Multilingual Sentiment Classifiers Using an LLM-Annotated Wikipedia Benchmark. *Milena Stróżyna, Włodzimierz Lewoniewski, Izabela Czumałowska.*
 - Process Standardisation for Human Evaluation of NLP System Outputs. *Craig Thomson, Javier González, Anya Belz.*
-- ReproHum #0124-03: Reproducing Human Scores on Neural REG Models. *Maurice Langner.*
-- ReproHum #0866-04: Variability in Human Judgments of Sociopolitical Acceptability Across Studies. *Rui Fan, Guanyi Chen.*
-- ReproNLP 2026: A Third Replication of the Human Evaluation of a QAG System for Children’s Storybooks. *Marcel Mroczek, Chiara Albarello, Paul-Emmanuel Floch, Maciej Gawinecki.*
-- ReproHum 0031–01: Reproducing a Human Readability Evaluation for Question–Answer Generation Systems. *Manuela Hürlimann, Mark Cieliebak.*
-- Do Nugget-Based Evaluation Patterns Generalize to List-QA?. *MohammadJavad Ardestani, Ehsan Kamalloo, Davood Rafiei.*
-- ReproHum: #0033-05: Human Evaluation Report on "Generating Scientific Definitions with Controllable Complexity". *Ines Arous, Jackie Chi.*
-- The Shared Task on Reproducibility of Evaluations in NLP (ReproNLP) 2026: Overview and Results. *Anya Belz, Craig Thomson, Javier González.*
-- ReproHum #0669-08: Reproducing a Recipe for Arbitrary Text Style Transfer with LLMs. *Saad Mahamood.*
 
-### ARR commitments
+#### ARR commitments
 - Language Modeling for the Future of Finance: A Survey into Metrics, Tasks, and Data Opportunities. *Nikita Tatarinov, Siddhant Sukhani, Agam Shah, Sudheer Chava.*
 - WildIFEval: Instruction Following in the Wild. *Gili Lior, Asaf Yehudai, Ariel Gera, Liat Ein-Dor.*
 - EconWebArena: Benchmarking Autonomous Agents on Economic Tasks in Realistic Web Environments. *Zefang Liu, Yinzhu Quan.*
@@ -266,19 +236,53 @@ I will present Autorubric, an open-source framework that consolidates these best
 - Teaching Values to Machines: Simulating Human-Like Behavior in LLMs. *Asaf Yehudai, Naama Rozen, Ariel Gera.*
 - MetaGraph: A Large-Scale Meta-Analysis of GenAI in Financial NLP (2022–2025). *Paolo Pedinotti, Peter Baumann, Nathan Jessurun, Leslie Barrett, Enrico Santus.*
 - When Users Are Happy but Agents Are Wrong: Multi-Dimensional Evaluation of Tool-Augmented Dialogue. *Tanya Shourya, Yingfan Wang, Zhaoyi Joey, Shamik Roy, Vinayshekhar Bannihatti, Rashmi Gangadharaiah.*
-- Tool-Aware Planning for Contact-Center Analytics: Evaluating LLMs through Lineage-Guided Query Decomposition. *Varun Nathan, Shreyas Guha, Ayush Kumar.*
 - TSAQA: Time Series Analysis Question And Answering Benchmark. *Baoyu Jing, Sanhorn Chen, Lecheng Zheng, Boyu Liu, Zihao Li, Jiaru Zou, Tianxin Wei, Zhining Liu, Zhichen Zeng, Ruizhong Qiu, Xiao Lin, Yuchen Yan, Dongqi Fu, Jingchao Ni, Jingrui He, Hanghang Tong.*
 - Who Endorsed It? Measuring Authority Bias Across Expertise Levels in Language Models. *Priyanka Mary, Emil Joswin, Shankar Venkitachalam.*
 - Reference Games as a Testbed for the Alignment of Model Uncertainty and Clarification Requests. *Manar Ali, Judith Sieker, Sina Zarrieß, Hendrik Buschmeier.*
 - Mapping Out the NLP Evaluation Landscape with a Standard Taxonomy of Quality Criteria. *Anya Belz, Simon Mille, Craig Thomson.*
 
-### Findings
+#### ACL Findings
 - Gaperon: A Peppered English-French Generative Language Model Suite. *Nathan Godey, Wissam Antoun, Rian Touchent, Rachel Bawden, Éric de la Clergerie, Benoît Sagot, Djamé Seddah*
 - MedScore: Generalizable Factuality Evaluation of Open-ended Long-form Medical Answers by Domain-adapted Claim Decomposition and Verification. *Heyuan Huang, Alexandra DeLucia, Vijay Murari Tiyyala, Mark Dredze*
 - LLM Multi-Agent Systems for Long Triple Set Data-to-Text Generation. *Chinonso Cynthia Osuji, Simon Mille, Mark Andrade, Jane Adkins, Ornait O’Connell, Elaine Uí Dhonnchadha, Bláithín Heffernan, Fírinne Nic an tSaoir, Anya Belz, Thiago Castro Ferreira, Brian Davis*
 - Automatic Paper Analysis and Categorisation for Systematic Reviews with Combined Reasoning-Augmented SFT and DAPO RL. *Michela Lorandi, Anya Belz, Simon Mille, Craig Thomson*
 - Carefully Considering Culture: Analyzing LLM Alignment in Single- and Multi-Cultural Settings using Cultural Consensus Theory. *Krishna	Pothugunta, John P. Lalor*
 
+
+### Virtual posters
+
+#### Direct submissions
+- DISCO: Diversifying Sample Condensation for Efficient Model Evaluation. *Alexander Rubinstein, Benjamin Raible, Martin Gubri, Seong Joon.*
+- Self-Anchoring Calibration Drift in Large Language Models: How Multi-Turn Conversations Reshape Model Confidence. *Harshavardhan .*
+- Position: What Are We Measuring? Rethinking Evaluation in Natural Language Generation. *Wajdi Zaghouani.*
+- Component Transfer Can Exceed Full Model Performance: Investigating Post-Trained Mixture-of-Experts. *Rabin Tiwari.*
+- CAMEL: Learning Community-Aligned Metrics and Weights for LLM Evaluation. *Ji Yong, Bumsoo Kang, June Yong, Youngsoo Jang, Chang Liu, Moontae Lee.*
+- Reassessing Extractive QA Datasets at Scale: LLM-as-a-Judge and In-Depth Analyses. *Xanh Ho, Jiahao Huang, Florian Boudin, Akiko Aizawa.*
+- IndicMMLU-Pro: Benchmarking Indic Large Language Models on Multi-Task Language Understanding. *Sankalp Jajee, Ashutosh Kumar, Nikunj Kotecha, Vinija Jain, Aman Chadha, Sreyoshi Bhaduri.*
+- Identifying Where Large Language Models Struggle in Answering Complex Questions. *Xanh Ho, Florian Boudin, Saku Sugawara, Khoa Duong, Akiko Aizawa.*
+- Consensus Group Relative Policy Optimization for Distilling Minimum Bayes Risk Decoding. *Yuki Ichihara, Yuu Jinnai, Kaito Ariu, Eiji Uchibe.*
+- MCJudgeBench: A Benchmark for Constraint-Level Judge Evaluation in Multi-Constraint Instruction Following. *Jaeyun Lee, Junyoung Koh, Zeynel Tok, Hunar Batra, Ronald Clark.*
+- Position: A Semiotic-Hermeneutic Approach to Evaluating Meaning in LLM Summaries via the Inductive Conceptual Rating Metric. *Natalie Perez, Aman Chadha, Sreyoshi Bhaduri.*
+- Not All Tokens Are Equal: Per-Dimension Top-K Pooling for Adversarially Robust BERT Classification. *Manoranjan Dash, Shivam Anand, Shanay Sheth, Pranav Shinde.*
+- Near-Miss: Latent Policy Failure Detection in Agentic Workflows. *Ella Rabinovich, David Boaz, Naama Zwerdling, Ateret Anaby.*
+- Speculative Refinement: A Hybrid Autoregressive Diffusion Decoding Strategy and Its Behavior Across Benchmarks. *Aditi Gupta, Neel Mishra, Kushagra Trivedi, Pawan Kumar.*
+- Evaluating ASR Quality at Scale on TV Entertainment Platforms. *Adeep Hande, Kishorekumar Sundararajan, Yidnekachew Endale, Akshatha Bapu, Sachin Dabral, Dawn Reed, Michael Pereira.*
+- A Progressive Evaluation Framework for Multicultural Analysis of Story Visualization. *Janak Kapuriya, Ali Hatami, Paul Buitelaar.*
+- E-star 12B: Reliable Rubric-Following and Domain-Adaptive SLM Evaluator for Korean Industrial Settings. *Yonghoon Kwon, Heondeuk Lee, Barom Kang.*
+- The Silent Vote: Improving Zero-Shot LLM Reliability by Aggregating Semantic Neighborhoods. *Sanket Badhe, Priyanka Tiwari, Deep Shah.*
+- RBCorr: Response Bias Correction in Language Models. *Om Bhatt, Anna A. Ivanova*
+- Token Cost Inequality: Measuring Tokenization Disparities Across Scripts in Roman Urdu and Urdu. *Waleed Jamil, Saima Rafi, Yanchao Yu.*
+- MedFact: Benchmarking the Fact-Checking Capabilities of Large Language Models on Chinese Medical Texts. *Ivy He, Yangmin Huang, Qianyun Du, Xiangying Zhou, Zhiyang He, Jiaxue Hu, Xiaodong Tao, Lixian Lai.*
+- Complex-IF and Beyond: Expert Rubrics for RLVR. *Sushant Mehta.*
+- Evaluating Multilingual Sentiment Classifiers Using an LLM-Annotated Wikipedia Benchmark. *Milena Stróżyna, Włodzimierz Lewoniewski, Izabela Czumałowska.*
+
+#### ReproNLP
+- ReproNLP 2026: A Third Replication of the Human Evaluation of a QAG System for Children’s Storybooks. *Marcel Mroczek, Chiara Albarello, Paul-Emmanuel Floch, Maciej Gawinecki.*
+- Do Nugget-Based Evaluation Patterns Generalize to List-QA?. *MohammadJavad Ardestani, Ehsan Kamalloo, Davood Rafiei.*
+- ReproHum #0669-08: Reproducing a Recipe for Arbitrary Text Style Transfer with LLMs. *Saad Mahamood.*
+
+#### ARR commitments
+- Tool-Aware Planning for Contact-Center Analytics: Evaluating LLMs through Lineage-Guided Query Decomposition. *Varun Nathan, Shreyas Guha, Ayush Kumar.*
 
 ## **Organizing committee**
 * Simon Mille - ADAPT, Dublin City University
