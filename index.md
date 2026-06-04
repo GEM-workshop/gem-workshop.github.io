@@ -212,7 +212,7 @@ I will present Autorubric, an open-source framework that consolidates these best
 - Not All Tokens Are Equal: Per-Dimension Top-K Pooling for Adversarially Robust BERT Classification. *Manoranjan Dash, Shivam Anand, Shanay Sheth, Pranav Shinde.*
 - Near-Miss: Latent Policy Failure Detection in Agentic Workflows. *Ella Rabinovich, David Boaz, Naama Zwerdling, Ateret Anaby.*
 - Evaluating Counterfactual Strategic Reasoning in Large Language Models. *Dimitrios Georgousis, Maria Lymperaiou, Angeliki Dimitriou, Giorgos Filandrianos, Giorgos Stamou.*
-- A Psychology-based Unified Dynamic Framework for Curriculum Learning. *Guangyu Meng, John P..*
+- A Psychology-based Unified Dynamic Framework for Curriculum Learning. *Guangyu Meng, John P. Lalor.*
 - Speculative Refinement: A Hybrid Autoregressive Diffusion Decoding Strategy and Its Behavior Across Benchmarks. *Aditi Gupta, Neel Mishra, Kushagra Trivedi, Pawan Kumar.*
 - SAUCE: Summary Analysis Using Conversation Entailment. *Man-Ling Sung, Hemanth Kandula, Jeff Ma, William Hartmann, Matthew Snover.*
 - Evaluating ASR Quality at Scale on TV Entertainment Platforms. *Adeep Hande, Kishorekumar Sundararajan, Yidnekachew Endale, Akshatha Bapu, Sachin Dabral, Dawn Reed, Michael Pereira.*
