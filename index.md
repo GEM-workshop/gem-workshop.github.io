@@ -208,7 +208,7 @@ I will present Autorubric, an open-source framework that consolidates these best
 - Fine-Tuning vs. RAG for Multi-Hop Question Answering with Novel Knowledge. *Zhuoyi Yang, Yurun song, Kyler G. Harris, Iftekhar Ahmed, Ian Harris.*
 - MHGraphBench: Knowledge Graph-Grounded Benchmarking of Mental Health Knowledge in Large Language Models. *Weixin Liu, Congning Ni, Shelagh A., Susannah L., Murat Kantarcioglu, Bradley A., Zhijun Yin.*
 - Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization. *Long Chen, Ryan Razkenari, Yuxuan Zhou, Yuan Tian, Rahul Ghosh, Venkatesh Pappakrishnan, Disha Ahuja, Vidya Sagar.*
-- Cross-Domain Semantic Fidelity Evaluation for Meaning-to-Text Generation. *Davan Harrison, Marilyn Walker.*
+<! -- - Cross-Domain Semantic Fidelity Evaluation for Meaning-to-Text Generation. *Davan Harrison, Marilyn Walker.*-->
 - Pressure-Testing Deception Probes in LLMs: Scaling, Robustness, and the Geometry of Deceptive Representations. *Sachin Kumar.*
 - S-GRADES - Studying Generalization of Student Response Assessments in Diverse Evaluative Settings. *Tasfia Seuti, Sagnik Ray.*
 - Sycophancy Negatively Affects LLM-as-a-Judge in Conflict Evaluation. *Naghmeh Farzi, Laura Dietz, Samuel Carton.*
@@ -225,7 +225,7 @@ I will present Autorubric, an open-source framework that consolidates these best
 - Position: Scores Without Context? Rethinking the Role of Evaluation in the Era of LLMs. *Jiawei Zhou.*
 - Early-Token Confidence Predicts Reasoning Quality in Multi-Agent LLM Debate. *Ali Keramati, Justin Cheok, Jacob Horne, Mark Warschauer.*
 - C2-Faith: Benchmarking LLM Judges for Causal and Coverage Faithfulness in Chain-of-Thought Reasoning. *Avni Mittal, Rauno Arike.*
-- Process Standardisation for Human Evaluation of NLP System Outputs. *Craig Thomson, Javier González, Anya Belz.*
+<! -- - Process Standardisation for Human Evaluation of NLP System Outputs. *Craig Thomson, Javier González, Anya Belz.*-->
 
 #### ARR commitments
 - Language Modeling for the Future of Finance: A Survey into Metrics, Tasks, and Data Opportunities. *Nikita Tatarinov, Siddhant Sukhani, Agam Shah, Sudheer Chava.*
