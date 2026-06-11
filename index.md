@@ -244,7 +244,7 @@ I will present Autorubric, an open-source framework that consolidates these best
 #### ACL Findings
 - Gaperon: A Peppered English-French Generative Language Model Suite. *Nathan Godey, Wissam Antoun, Rian Touchent, Rachel Bawden, Éric de la Clergerie, Benoît Sagot, Djamé Seddah*
 - MedScore: Generalizable Factuality Evaluation of Open-ended Long-form Medical Answers by Domain-adapted Claim Decomposition and Verification. *Heyuan Huang, Alexandra DeLucia, Vijay Murari Tiyyala, Mark Dredze*
-- LLM Multi-Agent Systems for Long Triple Set Data-to-Text Generation. *Chinonso Cynthia Osuji, Simon Mille, Mark Andrade, Jane Adkins, Ornait O’Connell, Elaine Uí Dhonnchadha, Bláithín Heffernan, Fírinne Nic an tSaoir, Anya Belz, Thiago Castro Ferreira, Brian Davis*
+- LLM Multi-Agent Systems for Data-to-Text Generation from Large Triple Sets. *Chinonso Cynthia Osuji, Simon Mille, Mark Andrade, Jane Adkins, Ornait O’Connell, Elaine Uí Dhonnchadha, Bláithín Heffernan, Fírinne Nic an tSaoir, Anya Belz, Thiago Castro Ferreira, Brian Davis*
 - Automatic Paper Analysis and Categorisation for Systematic Reviews with Combined Reasoning-Augmented SFT and DAPO RL. *Michela Lorandi, Anya Belz, Simon Mille, Craig Thomson*
 - Carefully Considering Culture: Analyzing LLM Alignment in Single- and Multi-Cultural Settings using Cultural Consensus Theory. *Krishna	Pothugunta, John P. Lalor*
 
