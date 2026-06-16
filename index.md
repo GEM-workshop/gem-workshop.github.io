@@ -204,7 +204,7 @@ I will present Autorubric, an open-source framework that consolidates these best
 - Evaluating Counterfactual Strategic Reasoning in Large Language Models. *Dimitrios Georgousis, Maria Lymperaiou, Angeliki Dimitriou, Giorgos Filandrianos, Giorgos Stamou.*
 - A Psychology-based Unified Dynamic Framework for Curriculum Learning. *Guangyu Meng, John P. Lalor.*
 - SAUCE: Summary Analysis Using Conversation Entailment. *Man-Ling Sung, Hemanth Kandula, Jeff Ma, William Hartmann, Matthew Snover.*
-- Teaching Values to Machines: Simulating Human-Like Value-Behavior Relationships in LLMs. *Asaf Yehudai, Naama Rozen, Ariel Gera.*
+<!-- - Teaching Values to Machines: Simulating Human-Like Value-Behavior Relationships in LLMs. *Asaf Yehudai, Naama Rozen, Ariel Gera.*-->
 - Fine-Tuning vs. RAG for Multi-Hop Question Answering with Novel Knowledge. *Zhuoyi Yang, Yurun song, Kyler G. Harris, Iftekhar Ahmed, Ian Harris.*
 - MHGraphBench: Knowledge Graph-Grounded Benchmarking of Mental Health Knowledge in Large Language Models. *Weixin Liu, Congning Ni, Shelagh A., Susannah L., Murat Kantarcioglu, Bradley A., Zhijun Yin.*
 - Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization. *Long Chen, Ryan Razkenari, Yuxuan Zhou, Yuan Tian, Rahul Ghosh, Venkatesh Pappakrishnan, Disha Ahuja, Vidya Sagar.*
@@ -252,7 +252,7 @@ I will present Autorubric, an open-source framework that consolidates these best
 ### Virtual posters
 
 #### Direct submissions
-- DISCO: Diversifying Sample Condensation for Efficient Model Evaluation. *Alexander Rubinstein, Benjamin Raible, Martin Gubri, Seong Joon.*
+<!-- - DISCO: Diversifying Sample Condensation for Efficient Model Evaluation. *Alexander Rubinstein, Benjamin Raible, Martin Gubri, Seong Joon.*-->
 - Self-Anchoring Calibration Drift in Large Language Models: How Multi-Turn Conversations Reshape Model Confidence. *Harshavardhan .*
 - Position: What Are We Measuring? Rethinking Evaluation in Natural Language Generation. *Wajdi Zaghouani.*
 - Component Transfer Can Exceed Full Model Performance: Investigating Post-Trained Mixture-of-Experts. *Rabin Tiwari.*
