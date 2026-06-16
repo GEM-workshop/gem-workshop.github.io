@@ -233,7 +233,7 @@ I will present Autorubric, an open-source framework that consolidates these best
 - EconWebArena: Benchmarking Autonomous Agents on Economic Tasks in Realistic Web Environments. *Zefang Liu, Yinzhu Quan.*
 - ISO-Bench: Benchmarking Multimodal Causal Reasoning in Visual–Language Models through Procedural Plans. *Ananya Sadana, Yash Kumar, Jiawei Zhou.*
 - Text Analytics Evaluation Framework: A Case Study on LLMs and Social Media. *Yuefeng Shi, Nedjma Ousidhoum, Jose Camacho-Collados.*
-- Teaching Values to Machines: Simulating Human-Like Behavior in LLMs. *Asaf Yehudai, Naama Rozen, Ariel Gera.*
+<!-- - Teaching Values to Machines: Simulating Human-Like Behavior in LLMs. *Asaf Yehudai, Naama Rozen, Ariel Gera.*-->
 - MetaGraph: A Large-Scale Meta-Analysis of GenAI in Financial NLP (2022–2025). *Paolo Pedinotti, Peter Baumann, Nathan Jessurun, Leslie Barrett, Enrico Santus.*
 - When Users Are Happy but Agents Are Wrong: Multi-Dimensional Evaluation of Tool-Augmented Dialogue. *Tanya Shourya, Yingfan Wang, Zhaoyi Joey, Shamik Roy, Vinayshekhar Bannihatti, Rashmi Gangadharaiah.*
 - TSAQA: Time Series Analysis Question And Answering Benchmark. *Baoyu Jing, Sanhorn Chen, Lecheng Zheng, Boyu Liu, Zihao Li, Jiaru Zou, Tianxin Wei, Zhining Liu, Zhichen Zeng, Ruizhong Qiu, Xiao Lin, Yuchen Yan, Dongqi Fu, Jingchao Ni, Jingrui He, Hanghang Tong.*
