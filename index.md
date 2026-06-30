@@ -8,7 +8,8 @@ subtitle: The Fifth Generation, Evaluation & Metrics Workshop (GEM)
 
 **Conference:** [ACL 2026](https://2026.aclweb.org/program/workshops/)  
 **Date:** July 4th, 2026 (All day)  
-**Location:** San Diego, California, USA  
+**Location:** San Diego, California, USA
+**Venue:** Grand Hyatt Manchester San Diego, Rooms Harbor E&F
 **Contact:** gem-workshop-chairs@googlegroups.com
 
 ---
