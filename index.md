@@ -219,7 +219,6 @@ I will present Autorubric, an open-source framework that consolidates these best
 - Are LLM Benchmarks Already Contaminated? A Systematic Review of Contamination Detection Methods. *Erfan Nourbakhsh, Mohammad Sadegh, Seyed Amir, Khoa Nguyen, John Quarles, Mimi Xie, Rocky Slavin.*
 - Exploring Coherence of LLMs in Multilingual Question Answering. *Stefano Campese, Ivano Lauriola.*
 - Beyond Consensus: Evaluating Multi-Agent LLM Debates through a Deliberative Democracy Framework. *Priya Pitre, Gaurav Srivastava, Lu Zhang, Le Wang, Naren Ramakrishnan, Xuan Wang.*
-- Semantic vs. Structural Signals: Log-Probability and LLM-as-a-Judge for Reference-Free Code Evaluation. *Dmitriy Fedrushkov, Yulong He, Ivan Smirnov, Artem Aliev, Sergey Kovalchuk.*
 - Statistically Reliable LLM-Based Ranking Evaluation via Prediction-Powered Inference. *Abhishek Divekar.*
 - Stability vs. Manipulability: Evaluating Robustness Under Post-Decision Interaction in LLM Judges. *Srimonti Dutta, Akshata Kishore.*
 - Permutation-Consensus Listwise Judging for Robust Factuality Evaluation. *Tianyi Huang, Nathan Huang, Justin Tang, Wenqian Chen, Elsa Fan.*
@@ -276,6 +275,7 @@ I will present Autorubric, an open-source framework that consolidates these best
 - MedFact: Benchmarking the Fact-Checking Capabilities of Large Language Models on Chinese Medical Texts. *Ivy He, Yangmin Huang, Qianyun Du, Xiangying Zhou, Zhiyang He, Jiaxue Hu, Xiaodong Tao, Lixian Lai.*
 - Complex-IF and Beyond: Expert Rubrics for RLVR. *Sushant Mehta.*
 - Evaluating Multilingual Sentiment Classifiers Using an LLM-Annotated Wikipedia Benchmark. *Milena Stróżyna, Włodzimierz Lewoniewski, Izabela Czumałowska.*
+- Semantic vs. Structural Signals: Log-Probability and LLM-as-a-Judge for Reference-Free Code Evaluation. *Dmitriy Fedrushkov, Yulong He, Ivan Smirnov, Artem Aliev, Sergey Kovalchuk.*
 
 #### ReproNLP
 - ReproNLP 2026: A Third Replication of the Human Evaluation of a QAG System for Children’s Storybooks. *Marcel Mroczek, Chiara Albarello, Paul-Emmanuel Floch, Maciej Gawinecki.*
