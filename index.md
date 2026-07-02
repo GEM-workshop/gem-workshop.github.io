@@ -190,7 +190,7 @@ I will present Autorubric, an open-source framework that consolidates these best
 - Reinforced Agent: Inference-Time Feedback for Tool-Calling Agents. *Anh Ta, Shahin Shayandeh, Junjie Zhu.*
 - Reviewing Only 1/10 of Submissions: Efficient Human-in-the-Loop Discovery for Approach-Aware LLM Grading. *Jinglun Zhao, Zijian Zhang, Jiaxuan Gao, Yi Wu.*
 - DETOUR: An Interactive Benchmark for Dual-Agent Search and Reasoning. *Siyan Li, Darshan Girish, Anand Kannappan, Rebecca Qian.*
-- Evaluating Style-Personalized Text Generation: Challenges and Directions. *Anubhav Jangra, Bahareh Sarrafzadeh, Silviu Cucerzan, Adrian De Wynter, Sujay Kumar.*
+- Evaluating Style-Personalized Text Generation: Challenges and Directions. *Anubhav Jangra, Bahareh Sarrafzadeh, Silviu Cucerzan, Adrian de Wynter, Sujay Kumar.*
 - RE-AD: Real-Time Requirement Adherence for Data Labeling. *Siddarth Malreddy, Ishan Nigam, Akshay Arora, Nikhil Mittal, Subrat Sahu.*
 - Lost in Space: Finding the Right Tokens for Structured Output. *Sil Hamilton, David Mimno.*
 - An Empirical Study of LLM-as-a-Judge: How Design Choices Impact Evaluation Reliability. *Yusuke Yamauchi, Taro Yano, Masafumi Oyamada.*
