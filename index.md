@@ -177,6 +177,14 @@ I will present Autorubric, an open-source framework that consolidates these best
 
 <br>
 
+## **Oral presentations**
+Five outstanding papers were shortlisted for oral presentation, based on their review and meta-review scores and the organisers’ judgement.
+- 09:50 - Are LLM Benchmarks Already Contaminated? A Systematic Review of Contamination Detection Methods. *Erfan Nourbakhsh, Mohammad Sadegh, Seyed Amir, Khoa Nguyen, John Quarles, Mimi Xie, Rocky Slavin.*
+- 10:05 - Process Standardisation for Human Evaluation of NLP System Outputs. *Craig Thomson, Javier González, Anya Belz.
+- 11:15 - Cross-Domain Semantic Fidelity Evaluation for Meaning-to-Text Generation. *Davan Harrison, Marilyn Walker.
+- 16:10 - C2-Faith: Benchmarking LLM Judges for Causal and Coverage Faithfulness in Chain-of-Thought Reasoning. *Avni Mittal, Rauno Arike.*
+- 16:25 - EconWebArena: Benchmarking Autonomous Agents on Economic Tasks in Realistic Web Environments. *Zefang Liu, Yinzhu Quan.*
+
 ## **Posters: 11:35-12:35 and 13:55-14:55**
 
 ### In-person posters
